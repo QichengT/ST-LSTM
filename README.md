@@ -1,5 +1,6 @@
 # ST-LSTM
 A Deep Learning Approach Combined Spatio-Temporal Features for Short-Term Forecast in Rail Transit
+
 本项目代码是论文“ST-LSTM: A Deep Learning Approach Combined Spatio-Temporal Features for Short-Term Forecast in Rail Transit”中的模型的实现。
 论文网址：https://www.hindawi.com/journals/jat/2019/8392592/
 论文中的数据下载：https://drive.google.com/open?id=1RuH080U_9PHdh9B9VoOjNurODWnHAYaf
